@@ -69,9 +69,4 @@ Para testar o sistema, siga os passos:
 4.  **Sacar** (`s`)
 5.  **Extrato** (`e`)
 
-## 🧑‍💻 Autor
 
-*   [Seu Nome/Usuário do GitHub] - *Desenvolvedor Inicial*
-
----
-*Este README foi gerado automaticamente como parte da solução do desafio de refatoração.*
